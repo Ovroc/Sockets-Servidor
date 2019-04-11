@@ -1,0 +1,7 @@
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Servidor\Socket_Servidor\bin\Release\Socket_Servidor.exe.config
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Servidor\Socket_Servidor\bin\Release\Socket_Servidor.exe
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Servidor\Socket_Servidor\bin\Release\Socket_Servidor.pdb
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Servidor\Socket_Servidor\obj\Release\Socket_Servidor.csproj.CoreCompileInputs.cache
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Servidor\Socket_Servidor\obj\Release\Socket_Servidor.exe
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Servidor\Socket_Servidor\obj\Release\Socket_Servidor.pdb
+E:\Sistemas de Informação\4° Ano\REDES DE COMPUTADORES\Socket_Servidor\Socket_Servidor\obj\Release\Socket_Servidor.csprojAssemblyReference.cache
